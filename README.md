@@ -1,1 +1,1 @@
-###Simple pet project with microservises patter
+### Simple pet project with microservises pattern
